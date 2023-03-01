@@ -1,0 +1,28 @@
+{
+  "name": "full-stack-newsletter",
+  "version": "0.0.1",
+  "description": "full stack newletter singup",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/elite-coder-5150/full-stack-newsletter.git"
+  },
+  "keywords": [
+    "newsletter",
+    "express",
+    "node"
+  ],
+  "author": "Darrell Parkhouse",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/elite-coder-5150/full-stack-newsletter/issues"
+  },
+  "homepage": "https://github.com/elite-coder-5150/full-stack-newsletter#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "mongoose": "^7.0.0"
+  }
+}
